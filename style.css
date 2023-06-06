@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+div{
+    background-color:black ;
+}
+
+h1{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: large;
+}
+
+img{
+    width: 100%;
+    border: 7px solid white;
+}
+
+div{
+    display: grid;
+    place-items: center;
+    margin: 10px 20%;
+}
